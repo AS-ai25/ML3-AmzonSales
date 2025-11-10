@@ -10,7 +10,7 @@ This project focused on developing a **Classification Prediction Model** to fore
 
 ---
 
-###Architecture and Methodology
+### Architecture and Methodology
 
 #### 1. Data Sources and Integration
 The analytical foundation was built by merging four main data tables from real Amazon India sales, documenting transactions over several months.
@@ -43,7 +43,7 @@ Features were selected if they were deemed significant by at least five differen
 
 ---
 
-###Key Business Insights
+### Key Business Insights
 
 The model identified the most influential factors determining the sale status:
 
@@ -59,7 +59,7 @@ The model identified the most influential factors determining the sale status:
 
 ---
 
-###Final Conclusion
+### Final Conclusion
 
 The **Gradient Boosting Model** provides the optimal combination of high accuracy (≈1.00), stability, and generalization capability, making it the final model of choice for sales status forecasting and generating data-driven operational insights.
 
