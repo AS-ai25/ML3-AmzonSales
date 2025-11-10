@@ -1,12 +1,8 @@
-Certainly. Here is the requested README file in English, summarizing the project from the document, with all citation references removed.
-
----
-
-## 📄 README File: Sales Prediction Model for Amazon India Garment Sales
+##README File: Sales Prediction Model for Amazon India Garment Sales
 
 This project focused on developing a **Classification Prediction Model** to forecast whether a specific women's apparel product sold on the Amazon India platform would successfully sell (resulting in a "Shipped" status).
 
-### 🎯 Project Objectives
+###Project Objectives
 
 1.  **Sales Prediction:** Develop a machine learning model capable of predicting the **order status** ("Shipped" / "Pending").
 2.  **Business Insights Generation:** Analyze the data to derive conclusions about consumption patterns, seasonal trends, and the impact of product characteristics on sales success.
@@ -14,7 +10,7 @@ This project focused on developing a **Classification Prediction Model** to fore
 
 ---
 
-### 🛠️ Architecture and Methodology
+###Architecture and Methodology
 
 #### 1. Data Sources and Integration
 The analytical foundation was built by merging four main data tables from real Amazon India sales, documenting transactions over several months.
@@ -47,7 +43,7 @@ Features were selected if they were deemed significant by at least five differen
 
 ---
 
-### 💡 Key Business Insights
+###Key Business Insights
 
 The model identified the most influential factors determining the sale status:
 
@@ -63,7 +59,7 @@ The model identified the most influential factors determining the sale status:
 
 ---
 
-### 🚀 Final Conclusion
+###Final Conclusion
 
 The **Gradient Boosting Model** provides the optimal combination of high accuracy (≈1.00), stability, and generalization capability, making it the final model of choice for sales status forecasting and generating data-driven operational insights.
 
