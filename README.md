@@ -63,6 +63,3 @@ The model identified the most influential factors determining the sale status:
 
 The **Gradient Boosting Model** provides the optimal combination of high accuracy (≈1.00), stability, and generalization capability, making it the final model of choice for sales status forecasting and generating data-driven operational insights.
 
----
-
-I can provide the specific metrics (Precision, Recall, F1) for the winning model's performance on the Test Set, or detail the sales patterns found in the DEA phase (e.g., leading categories and sizes). Which would you prefer?
