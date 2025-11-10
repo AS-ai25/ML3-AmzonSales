@@ -1,8 +1,8 @@
-##README File: Sales Prediction Model for Amazon India Garment Sales
+## README File: Sales Prediction Model for Amazon India Garment Sales
 
 This project focused on developing a **Classification Prediction Model** to forecast whether a specific women's apparel product sold on the Amazon India platform would successfully sell (resulting in a "Shipped" status).
 
-###Project Objectives
+### Project Objectives
 
 1.  **Sales Prediction:** Develop a machine learning model capable of predicting the **order status** ("Shipped" / "Pending").
 2.  **Business Insights Generation:** Analyze the data to derive conclusions about consumption patterns, seasonal trends, and the impact of product characteristics on sales success.
